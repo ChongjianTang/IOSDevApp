@@ -4,7 +4,7 @@ Submitted by: **Chongjian Tang**
 
 Spiderman's Story is an app that introduces some knowledge about Spiderman.
 
-Time spent: **X** hours spent in total
+Time spent: 6 hours spent in total
 
 ## Required Features
 
